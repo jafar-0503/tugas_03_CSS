@@ -1,0 +1,21 @@
+p.p_1{
+  background-color: orange;
+  font-size: 15px;
+}
+
+p.p_2{
+  background-color: blue;
+  font-size: 15px;
+  color: white;
+}
+
+p.p_3{
+  font-size: 20px;
+  font-family: monospace;
+}
+
+p.p_4{
+  background-color: grey;
+  font-size: 15px;
+  font-weight:  bold;
+}
